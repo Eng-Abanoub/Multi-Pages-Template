@@ -1,0 +1,15 @@
+.m-color{color: #E60024;}
+.b-color,
+.dropdown-menu > li > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.option-box i{background-color: #E60024;}
+
+.testimonials .carousel-indicators li.active,
+.option-color{
+   border: 3px solid #E60024;}
+
+navbar-nav > li > .dropdown-menu {
+   border-top:3px solid #E60024 ;
+}
